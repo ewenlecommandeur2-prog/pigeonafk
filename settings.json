@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Pigeonafk",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "pigeon-smp-26.aternos.me",
+    "port": 27648,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
